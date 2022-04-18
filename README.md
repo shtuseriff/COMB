@@ -14,3 +14,8 @@ Once you downloaded it, you have to enter this password to unzip it:
 ```
 +w/P3PRqQQoJ6g
 ```
+## Direct download
+If you are having issues with the torrent, feel free to download it from my onedrive:
+```
+https://gymet-my.sharepoint.com/:f:/g/personal/samo_kosik_gmet_sk/EiqHFtiTiA1DngKYf_iQoLABtoEszuyHHz6rWM9ye-wH9g?e=CciMJc
+```
