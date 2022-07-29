@@ -1,5 +1,5 @@
 # COMB
-Combination of many breaches
+Compilation of many breaches
 
 Since I was not able to find COMB on github, I am creating this repository, so everyone can download the contents of this data breach.
 It contains around 3.2 billion records.
