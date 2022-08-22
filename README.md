@@ -19,3 +19,6 @@ If you are having issues with the torrent, feel free to download it from my oned
 ```
 https://gymet-my.sharepoint.com/:f:/g/personal/samo_kosik_gmet_sk/EiqHFtiTiA1DngKYf_iQoLABtoEszuyHHz6rWM9ye-wH9g?e=J12wru
 ```
+## Tools
+Breach parse by Heath Adams is fully compatible with this list. This tool finds breached passwords belonging to a specified domain.
+Link to the tool: https://github.com/hmaverickadams/breach-parse
